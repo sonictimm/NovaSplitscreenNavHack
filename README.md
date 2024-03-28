@@ -19,6 +19,7 @@ I do not plan to update it, but please ask me if you have questions about how to
 I might make an example project if enough people ask, but it would require Nova and Rewired to work. I will not redistribute them.
 
 **NovaNavHacker** manages the navigation and focus for each player
+
 **ISpitscreenPlayerFocusable** Is an interface that must be implemented on anything that you want to be navigable by a single player (but not by any player).
 
 You may Set a player's Nav Focus to null to disable navigation.
